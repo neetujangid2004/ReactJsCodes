@@ -1,0 +1,24 @@
+What is React ?
+->  JavaScript Library for building fast and interactive UI
+->  Developed by Facebook in 2011
+->  React is the view layer of an MVC application (Model View Controller)
+->  Declarative View - React will efficiently update and render just the right components when your data changes.
+->  Component Based - Build encapsulated components that manage their own state, then compose them to make complex UIs.
+
+Why React ?
+->  Virtual DOM tree
+            Real DOM                         
+1.  It updates slow.
+2.  Can directly update HTML.
+3.  Creates a new DOM if element updates.
+4.  DOM manipulation is very expensive.
+5.  Too much of memory wastage.
+
+            Virtual DOM
+1.  It updates faster.
+2.  Can't directly update HTML.
+3.  Updates the JSX if element update.
+4.  DOM manipulation is very easy.
+5.  No memory wastage.
+
+Virtual DOM tree    -->     State change    -->     Real DOM 
