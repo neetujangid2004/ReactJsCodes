@@ -63,3 +63,9 @@ Virtual DOM tree    -->     State change    -->     Real DOM
             - legacy code
     - BAAS Apps
             - social media clone, e-commerce App......
+
+-> After React 
+    - React is not a complete solution in most clase
+        - no seo, browser render of js, no routing
+    - Framework 
+        - Next JS, Gatsby , Remix
