@@ -22,3 +22,44 @@ Why React ?
 5.  No memory wastage.
 
 Virtual DOM tree    -->     State change    -->     Real DOM 
+
+------------------------------------------------------------------
+-> Why to learn React ?
+    - hype, job, trend, build UI
+    - makes easy to manage & build complex frontend
+
+-> When should I learn React ?
+    - After mastering JS
+    - most project don't need react in initial phase
+
+-> Why react was created
+    - Ghost message problem 
+    - Facebook  - message box problem
+    - No consistency in UI
+    - state -> JS    &  UI -> DOM
+    - Khan academy -> Unsplash
+
+-> Don't learn React if :
+    - you don't know how JS works OR DOM works
+
+-> React learning Process
+    - go in-depth   ->  Babel, fibre, Virtual DOM, diff algo, hydration
+    - by making projects ( one topic of a time)     ->  Todo, calculator, github API
+
+-> React is a Library
+    - framework & Library
+
+-> Topics to learn
+    - core of react (state or UI manipulation, JSX)
+    - component reusability
+    - reusing of component (Props)
+    - how to propagate change (hooks)
+
+-> Additional Addon to React
+    - Router (React don't have Router)
+    - State managment (React don't have state managment)
+            - Redex , Redex toolkit , zxstand, context API
+    - clase based component
+            - legacy code
+    - BAAS Apps
+            - social media clone, e-commerce App......
