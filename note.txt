@@ -69,3 +69,22 @@ Virtual DOM tree    -->     State change    -->     Real DOM
         - no seo, browser render of js, no routing
     - Framework 
         - Next JS, Gatsby , Remix
+
+......... Practical ............
+
+-> npm - Node Package Manager
+-> npx - Node Package Executer
+
+First Type ......
+-   npx create-react-app - utility (software)
+-   cd 01basics
+-   dir
+-   npm run start
+-   npm run build 
+
+Second Type ......
+-   npm create vite@latest
+-   cd 01viteReact
+-   dir 
+-   npm install
+-   npm run dev 
